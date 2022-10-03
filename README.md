@@ -7,8 +7,9 @@ O presente projeto é um exercício para a turma de Programação de Soluções 
 Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.
 C = 5 * ((F-32) / 9).
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Programação de Soluções Computacionais
+- `Professores`: Diego e Montanha
+
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 

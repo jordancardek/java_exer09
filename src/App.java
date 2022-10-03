@@ -4,7 +4,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Qual é a temperatura em Fahrenheit?");
+        System.out.print("Temperatura em Fahrenheit: ");
         double fahrenheit = scan.nextDouble();
 
         scan.close();
